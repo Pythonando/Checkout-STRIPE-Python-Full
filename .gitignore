@@ -1,0 +1,5 @@
+credencias_stripe.txt
+db.sqlite3
+.env
+/venv
+venv/
